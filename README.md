@@ -9,3 +9,12 @@ The creative methods I used when designing this controller were brainstorming an
 Step 1: 
 The first step I took when designing this controller was the ideation and brainstorming. 
 Why was it done? 
+
+
+
+Brainstorming/initial Sketch (0.5) 
+Electronics prototype (1) 
+CAD prototype: (2) 
+- 3d Parts and assembly (separate, with their own tech drawings)
+- Bill of Materials
+ReadMe Explanations (2) 
