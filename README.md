@@ -19,19 +19,18 @@ Step 2: Sketching
 
 Step 3: CAD 
 - Went into Fusion and started modelling handle pieces and controller body
-- Created individual parts, then made technical drawings for them.
-- After all parts were complete, added them into one assembly to get exploded view, technical drawing, and bill of materials.
+- Created controller body, then had the handle bars come out of the middle piece. This was done becuase of the potential complexity when joining separate handlebar pieces to the controller's main body. 
+- After all modeling was done, created technical drawing and Bill of Materials. 
 
 Step 4: Write up/explanation. 
 - Wrote in this ReadMe about the process and steps. 
-The first step I took when designing this controller was the ideation and brainstorming. 
-Why was it done? 
+The first step I took when designing this controller was the ideation and brainstorming.
+
+**Why was it done this way?**
+The process: 
+Even though it was a short time frame, I found it useful to go over a quick brainstorming process of asking myself what the requirements should be. How many buttons it should have, how big it should be, and what the form factor should be. This let me streamline my design process a little bit more and gave me direction when starting. 
+
+The Design: 
+The reason the controller is shaped this was is to give it the user a pretty good idea of how to hold it and what it is for. The handlebar shape is semi-recognizable and it is relatively clear where the user should place their hands/thumbs to access the buttons. This increases immersion while retaining the knowledge of how the controller could/should be used. 
 
 
-
-Brainstorming/initial Sketch (0.5) 
-Electronics prototype (1) 
-CAD prototype: (2) 
-- 3d Parts and assembly (separate, with their own tech drawings)
-- Bill of Materials
-ReadMe Explanations (2) 
